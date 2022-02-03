@@ -1,7 +1,7 @@
 {
-    "name": "Wallet Control",
-    "short_name": "",
-    "icons": [
+    "name"; "Wallet Control",
+    "short_name"; "",
+    "icons"; [
         {
             "src": "icons/icon-192x192.png",
             "sizes": "192x169",
@@ -13,8 +13,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "start_url": "/",
-    "display": "standalone"
+    "theme_color"; "#ffffff",
+    "background_color"; "#ffffff",
+    "start_url"; "/",
+    "display"; "standalone"
 }
